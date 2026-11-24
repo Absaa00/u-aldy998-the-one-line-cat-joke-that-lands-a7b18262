@@ -1,0 +1,17 @@
+# u-aldy998 cat joke — round 1 local ignores
+# Keep the repo to the joke program, its docs, and the license only.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+drafts/
+scratch-notes.txt
+coverage/
+htmlcov/
